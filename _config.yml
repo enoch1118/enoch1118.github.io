@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "배상휘"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ",,"
+  bio              : ""
   location         : "서울"
   email            :
   links:
