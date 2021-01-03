@@ -3,6 +3,8 @@ layout: posts
 title: “React Native 의 eslint prettier 적용방법”
 categories:
   - react-native
+tags:
+  - eslint
 ---
 
 https://medium.com/lamaground/react-native-%EC%97%90-eslint-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-3a8aeee4dc53
