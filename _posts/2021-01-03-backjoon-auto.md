@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: “백준파이썬 파일생성기”
+title: 백준파이썬도우미
 categories:
   - 알고리즘
 tags:
